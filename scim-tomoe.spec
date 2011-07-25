@@ -1,7 +1,7 @@
 Summary:	Tomoe module for SCIM for handwritten input
 Name:		scim-tomoe
 Version:	0.6.0
-Release:	0.1
+Release:	1
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/tomoe/%{name}-%{version}.tar.gz
