@@ -9,7 +9,7 @@ Source0:	http://downloads.sourceforge.net/tomoe/%{name}-%{version}.tar.gz
 # Source0-md5:	21207dad4ceb5c00651673ec3737e010
 Patch0:		%{name}-gcc43-cstring.patch
 URL:		http://tomoe.sourceforge.net/
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	gtk+2-devel >= 2:2.4.0
 BuildRequires:	intltool >= 0.35.0
 BuildRequires:	libstdc++-devel
